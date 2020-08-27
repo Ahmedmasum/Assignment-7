@@ -1,0 +1,9 @@
+.online-learning-container {
+  display: flex;
+}
+.courses-container {
+  width: 70%;
+}
+.cart-container {
+  width: 30%;
+}

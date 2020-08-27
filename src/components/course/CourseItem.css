@@ -1,0 +1,31 @@
+.course-Item {
+  display: flex;
+  width: 70%;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid cornflowerblue;
+  color: cornflowerblue;
+  border-radius: 10px;
+}
+.course-image img {
+  width: 350px;
+  height: 100%;
+}
+
+.course-info {
+  border-left: 3px solid rgb(70, 112, 190);
+  margin: 10px;
+  padding: 10px;
+}
+/* .course-info button {
+  width: 100px;
+  padding: 10px;
+  background-color: cornflowerblue;
+  border: 1px solid rgb(35, 35, 88);
+  color: white;
+  cursor: pointer;
+}
+.course-info button:hover {
+  color: cornflowerblue;
+  background-color: white;
+} */
